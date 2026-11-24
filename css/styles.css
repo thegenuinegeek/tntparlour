@@ -440,6 +440,29 @@ a:hover {
   border-bottom: 1px solid var(--line);
 }
 
+.roster-list.compact a {
+  min-height: 48px;
+  padding: 0.15rem 0;
+}
+
+.roster-list.compact .num {
+  font-size: 1.35rem;
+}
+
+.roster-list.compact .who strong {
+  font-size: 1.2rem;
+}
+
+.ig-card {
+  border: 2px solid var(--gold);
+  padding: 1rem;
+  margin: 0 0 1rem;
+}
+
+.ig-card h2 {
+  font-size: 2rem;
+}
+
 .num {
   font-family: var(--display);
   font-weight: 400;
@@ -463,9 +486,13 @@ a:hover {
   font-family: var(--display);
   font-weight: 400;
   font-size: 1.4rem;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  text-transform: none;
   line-height: 1;
+}
+
+h1.as-written {
+  text-transform: none;
 }
 
 .meta {

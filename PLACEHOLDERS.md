@@ -2,40 +2,41 @@
 
 This is a static prototype. Nothing here was sent to the shop. Replace every item below before treating the site as live.
 
-## Artist roster — placeholders
+## Artist roster
 
-Instagram would not return the bio at `https://instagram.com/tntparlour`.
+James supplied the current artists from the Instagram bio. Display names are the handle with `@`, except Kevin Dixon. No other real names were invented.
 
-- A normal browser request was redirected to the Instagram login page and then answered **429**.
-- `i.instagram.com/api/v1/users/web_profile_info/?username=tntparlour` returned **404**.
-- Facebook `https://facebook.com/105780602271555` redirected to a login page, so current work photos could not be downloaded from there either.
+| Page | Display name | Instagram |
+| --- | --- | --- |
+| `artists/kevin-dixon.html` | Kevin Dixon (owner) | https://instagram.com/kevin_dtattoos |
+| `artists/greasy-dreams.html` | @greasy.dreams | https://instagram.com/greasy.dreams |
+| `artists/baza-stormtattoos.html` | @baza_stormtattoos | https://instagram.com/baza_stormtattoos |
+| `artists/c-lo-qween.html` | @c.lo.qween | https://instagram.com/c.lo.qween |
+| `artists/inkyleetattoos.html` | @inkyleetattoos | https://instagram.com/inkyleetattoos |
+| `artists/jordyn-tatts.html` | @jordyn_tatts | https://instagram.com/jordyn_tatts |
+| `artists/hol3-punch3r.html` | @hol3_punch3r | https://instagram.com/hol3_punch3r |
+| `artists/lilskythetatguy.html` | @lilskythetatguy | https://instagram.com/lilskythetatguy |
 
-The pages `artists/placeholder-1.html`, `placeholder-2.html`, and `placeholder-3.html` use these stand-in names:
+### Bios and styles — still placeholders
 
-- Placeholder Artist 1
-- Placeholder Artist 2
-- Placeholder Artist 3
+Every artist page has:
 
-They are **not** real artists. Bios, style tags, and personal Instagram links are empty on purpose. Each page links to the shop Instagram and says the personal handle is unconfirmed.
+- A **Placeholder** bio: not confirmed. No experience, specialties, or limits are stated.
+- A style tag: **Styles unconfirmed — placeholder**.
 
-Do not publish those names as the roster. When the bio is available, replace the names, bios, style tags, handles, photos, the booking-form options, and the URLs. Remove the placeholder seats that are not real people.
-
-### Names that were seen elsewhere and not used
-
-The old site (https://github.com/drewclem/tooth-n-nail) listed Kevin Dixon, Jonathan Kirby, Micah Freeman, and Ricky Lester. The task said that roster is outdated, so it was not copied onto this site.
-
-Public posts and reviews have also mentioned Lee (Instagram discussed as inkyleetattoos), Nicolle, Storm, Amber, Micah, Ricky, and Kevin. Those mentions were not treated as the current Instagram bio, so they are not listed as artists here.
-
-Kevin Dixon is named only as **owner**, which was given in the project brief, not as a confirmed chair on today's roster.
+Replace both after the shop writes them. Do not treat the handles as full legal names.
 
 ## Photos
 
-- Owner-approved Facebook photos were not fetched (login wall).
-- Gallery and artist-page images are from the public repo `drewclem/tooth-n-nail`.
-- Several frames are watermarked or signed **Kevin D Tattoos**. The gallery says so. Artist pages label every sample as archive work, not a confirmed portfolio for that seat.
-- The small archive thumbs were cropped to remove an Instagram heart icon. They are low resolution (about 220px).
-- Logo: `images/logo.png` from that same repo (`static/images/tnn_logo.jpg`). Confirm the shop still uses it.
+- Facebook photos were not fetched (login wall).
+- Kevin D Tattoos watermarked or signed archive frames from `drewclem/tooth-n-nail` are used only on the home gallery and on Kevin Dixon's page.
+- The other seven artist pages have a "See their work on Instagram" card and no borrowed photos.
+- Logo: `images/logo.png` from that same repo. Confirm the shop still uses it.
 - `images/og.jpg` is a generated share image using that logo.
+
+## Piercing
+
+The bio calls the shop a tattoo and piercing shop. The homepage, the FAQ, and the `TattooParlor` description say piercing is a service. The FAQ answer is a **placeholder**. No piercing price, jewelry list, or menu was invented.
 
 ## Policies written as placeholders
 
@@ -52,7 +53,7 @@ The health-board line was copied and not re-verified:
 
 > Licensed by the Macon Bibb County Board of Health. 171 Emory Highway. 478-745-0411.
 
-FAQ answers on pain, swimming, price, and "leaking ink" started from that site (`pages/Q&A.vue`), edited for clarity. The price answer still says the old site did not quote over the phone or social media, and it tells the reader to confirm that. The pain answer still mentions piercing. Whether the shop still pierces was not reconfirmed.
+FAQ answers on pain, swimming, price, and "leaking ink" started from that site (`pages/Q&A.vue`), edited for clarity. The price answer still says the old site did not quote over the phone or social media, and it tells the reader to confirm that. A separate piercing question is a placeholder and does not list a price.
 
 Hours and walk-ins in the FAQ match the facts supplied for this prototype.
 
