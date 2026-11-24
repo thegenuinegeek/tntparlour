@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thegenuinegeek.github.io/tntparlour/sitemap.xml
