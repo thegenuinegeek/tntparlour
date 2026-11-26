@@ -461,11 +461,11 @@ p {
 /* Full-Viewport Borderless Cinematic Hero */
 .hero {
   position: relative;
-  min-height: calc(100svh - var(--dock-h));
+  min-height: 0;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  padding: calc(var(--header-h) + 2rem) 0 2.5rem;
+  justify-content: flex-start;
+  padding: calc(var(--header-h) + 1rem) 0 2rem;
   overflow: hidden;
   background: var(--bg);
 }
@@ -496,8 +496,8 @@ p {
 .hero-main {
   position: relative;
   z-index: 2;
-  margin-block: auto;
-  padding: 2rem 0 3rem;
+  margin-block: 0;
+  padding: 0.75rem 0 1.75rem;
 }
 
 .hero-copy {
@@ -505,7 +505,7 @@ p {
 }
 
 .hero-logo-wrap {
-  margin: 0.2rem 0 1.15rem;
+  margin: 0 0 0.5rem;
   line-height: 1;
 }
 
@@ -525,7 +525,7 @@ p {
 
 .hero-copy .lede {
   color: rgba(245, 239, 230, 0.78);
-  margin: 1.15rem 0 1.85rem;
+  margin: 0.5rem 0 1.25rem;
 }
 
 .hero-actions {
@@ -1720,8 +1720,8 @@ textarea {
   }
 
   .hero {
-    min-height: 94vh;
-    padding: calc(var(--header-h) + 3rem) 0 2.75rem;
+    min-height: 0;
+    padding: calc(var(--header-h) + 1.5rem) 0 2.25rem;
   }
 
   .triptych-band {
