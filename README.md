@@ -1,7 +1,19 @@
 # Tooth & Nail Tattoo Parlour
 
-Static prototype for [GitHub Pages](https://thegenuinegeek.github.io/tntparlour/) from the repository root. HTML, CSS, and vanilla JS. No build step.
+Static website for **Tooth & Nail Tattoo Parlour** (484 Cherry St, downtown Macon, GA), built from a single JSON source of truth (`data/shop.json`) into clean, zero-dependency HTML, CSS, and vanilla JavaScript.
 
-Open `index.html` or serve this folder. Paths are relative so the site works under `/tntparlour/`.
+## Structure & Workflow
 
-`PLACEHOLDERS.md` lists the artist roster, photos, deposit, and ID copy the shop still needs to confirm.
+- `data/shop.json` — Single source of truth for studio NAP, hours, services, all 8 resident artists, portfolio metadata, FAQs, and aftercare instructions.
+- `build.py` — Generates all 14 static HTML pages (with connected Schema.org `@graph` JSON-LD), `sitemap.xml`, `robots.txt`, `llms.txt`, and `llms-full.txt`.
+- `scripts/process_assets.py` — Extracts clean transparency on `images/logo.png`, optimizes WebP variants, and generates `images/og.jpg`.
+- `css/styles.css` & `js/site.js` — Dark heritage tattoo parlour styling, live Macon (`America/New_York`) open/closed badge, gallery style filter + lightbox, and consult request summary builder.
+
+## Rebuilding Locally
+
+```bash
+python3 build.py
+python3 -m http.server 8765
+```
+
+All internal links use relative paths so the site works cleanly at `/` on a custom domain (`tntparlour.com`) or under `/tntparlour/` on GitHub Pages.

@@ -1,0 +1,781 @@
+{
+  "siteUrl": "https://thegenuinegeek.github.io/tntparlour",
+  "name": "Tooth & Nail Tattoo Parlour",
+  "shortName": "Tooth & Nail",
+  "tagline": "Custom Tattoos, Walk-Ins & Body Piercings on Cherry Street",
+  "owner": "Kevin Dixon & Ricky Lester",
+  "established": "10+ Years",
+  "ratingValue": "4.9",
+  "ratingSource": "Google",
+  "phoneDisplay": "(478) 259-1829",
+  "phoneHref": "+14782591829",
+  "address": {
+    "street": "484 Cherry St",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31201",
+    "country": "US",
+    "neighborhood": "Downtown Macon"
+  },
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tooth%20%26%20Nail%20Tattoo%20Parlour%20484%20Cherry%20St%20Macon%20GA%2031201",
+  "mapsEmbedUrl": "https://www.google.com/maps?q=Tooth%20%26%20Nail%20Tattoo%20Parlour%20484%20Cherry%20St%20Macon%20GA%2031201&output=embed",
+  "hours": [
+    {
+      "label": "Tue – Thu",
+      "display": "1:00 PM – 8:00 PM",
+      "short": "1–8 PM",
+      "days": ["Tuesday", "Wednesday", "Thursday"],
+      "opens": "13:00",
+      "closes": "20:00"
+    },
+    {
+      "label": "Fri – Sat",
+      "display": "1:00 PM – 10:00 PM",
+      "short": "1–10 PM",
+      "days": ["Friday", "Saturday"],
+      "opens": "13:00",
+      "closes": "22:00"
+    },
+    {
+      "label": "Sun – Mon",
+      "display": "Closed",
+      "short": "Closed",
+      "days": [],
+      "opens": null,
+      "closes": null
+    }
+  ],
+  "areasServed": [
+    "Downtown Macon",
+    "Bibb County",
+    "Warner Robins",
+    "Milledgeville",
+    "Forsyth",
+    "Gray",
+    "Byron",
+    "Perry"
+  ],
+  "social": {
+    "instagram": "https://instagram.com/tntparlour",
+    "instagramHandle": "@tntparlour",
+    "facebook": "https://facebook.com/105780602271555"
+  },
+  "healthBoard": {
+    "authority": "Macon-Bibb County Board of Health",
+    "address": "171 Emory Highway, Macon, GA",
+    "phoneDisplay": "(478) 745-0411",
+    "phoneHref": "+14787450411"
+  },
+  "services": [
+    {
+      "id": "custom-tattoos",
+      "name": "Custom Tattoos",
+      "availability": "By Consultation",
+      "icon": "machine",
+      "summary": "One-off pieces drawn for your placement and style—spanning American traditional, neo-traditional, color anime, fine line, and black & grey realism."
+    },
+    {
+      "id": "walk-in-tattoos",
+      "name": "Walk-In Tattoos",
+      "availability": "Tue–Sat While Chairs Open",
+      "icon": "flash",
+      "summary": "Flash, script, palm-sized pieces, and spontaneous Cherry Street sessions. Call ahead or stop by 484 Cherry St during shop hours."
+    },
+    {
+      "id": "cover-ups",
+      "name": "Cover-Ups & Reworks",
+      "availability": "In-Shop Assessment",
+      "icon": "shield",
+      "summary": "Smart composition and color saturation to rework or cover older ink. Stop in or send a photo so the right artist can plan it out."
+    },
+    {
+      "id": "body-piercing",
+      "name": "Body Piercing",
+      "availability": "Walk-Ins & Booking Wed–Sat",
+      "icon": "diamond",
+      "summary": "Professional body piercing, curated ear styling, and sterile jewelry with resident piercer Tyler (@hol3_punch3r)."
+    }
+  ],
+  "artists": [
+    {
+      "slug": "kevin-dixon",
+      "name": "Kevin Dixon",
+      "displayName": "Kevin Dixon",
+      "monogram": "KD",
+      "handle": "@kevin_dtattoos",
+      "instagram": "https://instagram.com/kevin_dtattoos",
+      "bookingEmail": "kevindtattoos09@gmail.com",
+      "bookingUrl": null,
+      "bookingNote": "Emails only for custom booking (no Instagram DMs).",
+      "role": "Co-Owner & Tattoo Artist",
+      "number": "01",
+      "featuredImage": "images/work-kidbuu",
+      "styles": ["Full-Color Anime & Gaming", "Pop Culture", "Neo-Traditional", "Custom Sleeves"],
+      "bio": "Co-owner of Tooth & Nail Tattoo Parlour on Cherry Street. Known across Middle Georgia for saturated full-color anime, gaming, and pop-culture sleeves alongside vibrant neo-traditional and custom illustrative work."
+    },
+    {
+      "slug": "greasy-dreams",
+      "name": "Ricky Lester",
+      "displayName": "Ricky Lester",
+      "monogram": "RL",
+      "handle": "@greasy.dreams",
+      "instagram": "https://instagram.com/greasy.dreams",
+      "bookingEmail": "RL.Tattooing@gmail.com",
+      "bookingUrl": null,
+      "bookingNote": "Email RL.Tattooing@gmail.com or call the shop desk to book.",
+      "role": "Co-Owner & Tattoo Artist",
+      "number": "02",
+      "featuredImage": null,
+      "styles": ["Custom Tattoos", "Walk-Ins", "Cherry Street Co-Owner"],
+      "bio": "Co-owner and resident tattoo artist at Tooth & Nail Tattoo Parlour at 484 Cherry St in downtown Macon. Reach out directly by email at RL.Tattooing@gmail.com or call the shop to plan custom work."
+    },
+    {
+      "slug": "baza-stormtattoos",
+      "name": "Storm Bazarsky",
+      "displayName": "Storm Bazarsky",
+      "monogram": "SB",
+      "handle": "@baza_stormtattoos",
+      "instagram": "https://instagram.com/baza_stormtattoos",
+      "bookingEmail": null,
+      "bookingUrl": null,
+      "bookingNote": "DM @baza_stormtattoos on Instagram or submit a consult request.",
+      "role": "Resident Tattoo Artist",
+      "number": "03",
+      "featuredImage": "images/artists/storm-3",
+      "styles": ["Neo-Traditional", "Color & New School", "Black & Grey", "Ornamental"],
+      "bio": "Resident artist at Tooth & Nail specializing in bold neo-traditional tattoos in saturated color or black & grey, alongside vibrant new-school character work and delicate ornamental pieces."
+    },
+    {
+      "slug": "c-lo-qween",
+      "name": "Amber",
+      "displayName": "Amber",
+      "monogram": "AM",
+      "handle": "@c.lo.qween",
+      "instagram": "https://instagram.com/c.lo.qween",
+      "bookingEmail": null,
+      "bookingUrl": null,
+      "bookingNote": "DM @c.lo.qween on Instagram or request a consult below.",
+      "role": "Resident Tattoo Artist",
+      "number": "04",
+      "featuredImage": "images/artists/amber-2",
+      "styles": ["American Traditional", "Neo-Traditional", "Illustrative Color"],
+      "bio": "Resident tattooer at Tooth & Nail crafting bold American traditional, neo-traditional, and whimsical illustrative color tattoos—from classic western flash to vibrant moths and botanicals."
+    },
+    {
+      "slug": "inkyleetattoos",
+      "name": "Amory \"Lee\"",
+      "displayName": "Amory \"Lee\"",
+      "monogram": "AL",
+      "handle": "@inkyleetattoos",
+      "instagram": "https://instagram.com/inkyleetattoos",
+      "bookingEmail": null,
+      "bookingUrl": "https://venue.ink/@inkyleetattoos",
+      "bookingNote": "Book directly via Venue.ink or submit a shop consultation.",
+      "role": "Resident Tattoo Artist",
+      "number": "05",
+      "featuredImage": "images/artists/lee-1",
+      "styles": ["Fine Line", "Ornamental Linework", "Botanical & Illustrative"],
+      "bio": "Linework specialist at Tooth & Nail focused on intricate fine-line botanicals, antique ornamental filigree, storybook engravings, and custom floral wrap compositions."
+    },
+    {
+      "slug": "jordyn-tatts",
+      "name": "Jordyn",
+      "displayName": "Jordyn",
+      "monogram": "JT",
+      "handle": "@jordyn_tatts",
+      "instagram": "https://instagram.com/jordyn_tatts",
+      "bookingEmail": null,
+      "bookingUrl": null,
+      "bookingNote": "DM @jordyn_tatts on Instagram or request a consult through the shop.",
+      "role": "Resident Tattoo Artist",
+      "number": "06",
+      "featuredImage": "images/artists/jordyn-1",
+      "styles": ["Black & Grey Realism", "Pet Portraits", "Surrealism", "Fine Line"],
+      "bio": "Resident artist at Tooth & Nail specializing in high-contrast black & grey realism, lifelike pet portraits, dark gothic architecture, surrealism, and detailed floral shading."
+    },
+    {
+      "slug": "hol3-punch3r",
+      "name": "Tyler",
+      "displayName": "Tyler",
+      "monogram": "TY",
+      "handle": "@hol3_punch3r",
+      "instagram": "https://instagram.com/hol3_punch3r",
+      "bookingEmail": null,
+      "bookingUrl": null,
+      "bookingNote": "Walk-ins and appointments Wednesday–Saturday; DM @hol3_punch3r or call the shop.",
+      "role": "Professional Body Piercer",
+      "number": "07",
+      "featuredImage": "images/artists/tyler-1",
+      "styles": ["Body Piercing", "Curated Ear Styling", "Facial Piercings", "Sterile Jewelry"],
+      "bio": "Tooth & Nail's professional body piercer (he/they), focused on clean anatomical placement, multi-piercing ear curations, facial piercings, and quality threadless jewelry Wednesday through Saturday."
+    },
+    {
+      "slug": "lilskythetatguy",
+      "name": "Sky",
+      "displayName": "Sky",
+      "monogram": "SK",
+      "handle": "@lilskythetatguy",
+      "instagram": "https://instagram.com/lilskythetatguy",
+      "bookingEmail": null,
+      "bookingUrl": "https://venue.ink/@lilskythetatguy",
+      "bookingNote": "Walk-ins welcome; book custom pieces via Venue.ink or DM.",
+      "role": "Resident Tattoo Artist",
+      "number": "08",
+      "featuredImage": "images/artists/sky-1",
+      "styles": ["Black & Grey", "Illustrative & Folklore", "Botanical Shading", "Walk-In Flash"],
+      "bio": "Resident tattoo artist at Tooth & Nail welcoming walk-ins and custom bookings—known for illustrative blackwork, whip-shaded florals, spooky folklore motifs, and custom flash."
+    }
+  ],
+  "portfolio": {
+    "homeShowcase": [
+      {
+        "path": "images/work-kidbuu",
+        "width": 1400,
+        "height": 1400,
+        "title": "Kid Buu Full-Color Anime",
+        "artist": "Kevin Dixon",
+        "artistSlug": "kevin-dixon",
+        "category": "color-traditional",
+        "categoryLabel": "Color & Anime",
+        "alt": "Full-color Dragon Ball Z Kid Buu forearm tattoo by Kevin Dixon at Tooth & Nail Tattoo Parlour in Macon, GA"
+      },
+      {
+        "path": "images/artists/storm-3",
+        "width": 640,
+        "height": 645,
+        "title": "Tactical Raccoon New School",
+        "artist": "Storm Bazarsky",
+        "artistSlug": "baza-stormtattoos",
+        "category": "color-traditional",
+        "categoryLabel": "Color & Neo-Trad",
+        "alt": "Vibrant full-color neo-traditional tactical raccoon thigh tattoo with night-vision goggles by Storm Bazarsky in Macon, GA"
+      },
+      {
+        "path": "images/artists/amber-2",
+        "width": 640,
+        "height": 705,
+        "title": "American Traditional Cowgirl",
+        "artist": "Amber",
+        "artistSlug": "c-lo-qween",
+        "category": "color-traditional",
+        "categoryLabel": "American Traditional",
+        "alt": "Bold American Traditional cowgirl portrait tattoo framed in rope with sunset colors by Amber (@c.lo.qween) at Tooth & Nail"
+      },
+      {
+        "path": "images/artists/jordyn-1",
+        "width": 640,
+        "height": 971,
+        "title": "Gothic Cathedral Black & Grey",
+        "artist": "Jordyn",
+        "artistSlug": "jordyn-tatts",
+        "category": "black-grey",
+        "categoryLabel": "Black & Grey",
+        "alt": "Detailed black and grey Gothic cathedral upper-arm tattoo by Jordyn (@jordyn_tatts) at Tooth & Nail in Macon, GA"
+      },
+      {
+        "path": "images/artists/lee-1",
+        "width": 640,
+        "height": 943,
+        "title": "Ornamental Vase & Wildflowers",
+        "artist": "Amory \"Lee\"",
+        "artistSlug": "inkyleetattoos",
+        "category": "fineline-piercing",
+        "categoryLabel": "Fine Line",
+        "alt": "Delicate fine-line ornamental antique vase and wildflower forearm tattoo by Amory Lee (@inkyleetattoos) at Tooth & Nail"
+      },
+      {
+        "path": "images/artists/jordyn-3",
+        "width": 640,
+        "height": 860,
+        "title": "German Shepherd Pet Portrait",
+        "artist": "Jordyn",
+        "artistSlug": "jordyn-tatts",
+        "category": "black-grey",
+        "categoryLabel": "Realism Portrait",
+        "alt": "Lifelike black and grey realism German Shepherd dog portrait tattoo by Jordyn (@jordyn_tatts) in downtown Macon"
+      },
+      {
+        "path": "images/artists/amber-1",
+        "width": 640,
+        "height": 705,
+        "title": "Twin Faces Butterfly",
+        "artist": "Amber",
+        "artistSlug": "c-lo-qween",
+        "category": "color-traditional",
+        "categoryLabel": "Neo-Traditional",
+        "alt": "Color neo-traditional conjoined twin faces tattoo with butterfly wings and flowers by Amber (@c.lo.qween)"
+      },
+      {
+        "path": "images/artists/sky-1",
+        "width": 640,
+        "height": 705,
+        "title": "Blackwork Ouroboros Snake",
+        "artist": "Sky",
+        "artistSlug": "lilskythetatguy",
+        "category": "black-grey",
+        "categoryLabel": "Blackwork",
+        "alt": "Detailed blackwork Ouroboros snake shoulder tattoo by Sky (@lilskythetatguy) at Tooth & Nail Tattoo Parlour"
+      },
+      {
+        "path": "images/artists/lee-2",
+        "width": 640,
+        "height": 974,
+        "title": "Éowyn & Fellbeast Engraving",
+        "artist": "Amory \"Lee\"",
+        "artistSlug": "inkyleetattoos",
+        "category": "fineline-piercing",
+        "categoryLabel": "Fine Line & Illustrative",
+        "alt": "Fine-line Lord of the Rings Éowyn and Fellbeast thigh tattoo with botanical border by Amory Lee (@inkyleetattoos)"
+      },
+      {
+        "path": "images/artists/tyler-1",
+        "width": 640,
+        "height": 836,
+        "title": "Curated Ear Piercing Setup",
+        "artist": "Tyler",
+        "artistSlug": "hol3-punch3r",
+        "category": "fineline-piercing",
+        "categoryLabel": "Body Piercing",
+        "alt": "Curated ear piercing with opal helix, serpent rook jewelry, and stacked lobe pieces by piercer Tyler (@hol3_punch3r)"
+      },
+      {
+        "path": "images/artists/work-kevin-moth",
+        "width": 640,
+        "height": 974,
+        "title": "Rosy Maple Moth",
+        "artist": "Kevin Dixon",
+        "artistSlug": "kevin-dixon",
+        "category": "color-traditional",
+        "categoryLabel": "Vibrant Color",
+        "alt": "Bright pink and yellow Rosy Maple Moth forearm tattoo by Kevin Dixon at Tooth & Nail in Macon, GA"
+      },
+      {
+        "path": "images/artists/sky-4",
+        "width": 640,
+        "height": 705,
+        "title": "Whip-Shaded Peony Floral",
+        "artist": "Sky",
+        "artistSlug": "lilskythetatguy",
+        "category": "black-grey",
+        "categoryLabel": "Botanical Shading",
+        "alt": "Soft dotwork and whip-shaded black and grey floral upper-arm tattoo by Sky (@lilskythetatguy)"
+      }
+    ],
+    "allArtistWorks": [
+      {
+        "path": "images/work-kidbuu",
+        "width": 1400,
+        "height": 1400,
+        "title": "Kid Buu Color Anime Piece",
+        "artistSlug": "kevin-dixon",
+        "categoryLabel": "Color & Anime",
+        "alt": "Full-color anime forearm tattoo of Kid Buu from Dragon Ball Z by Kevin Dixon"
+      },
+      {
+        "path": "images/work-armor",
+        "width": 1400,
+        "height": 1400,
+        "title": "Dr. Gero Color Anime Piece",
+        "artistSlug": "kevin-dixon",
+        "categoryLabel": "Color & Anime",
+        "alt": "Full-color anime forearm tattoo of Dr. Gero from Dragon Ball Z by Kevin Dixon"
+      },
+      {
+        "path": "images/work-vault",
+        "width": 1080,
+        "height": 1080,
+        "title": "Borderlands Vault Emblem",
+        "artistSlug": "kevin-dixon",
+        "categoryLabel": "Color & Gaming",
+        "alt": "Color shoulder tattoo of the Borderlands Vault emblem over orange diamonds by Kevin Dixon"
+      },
+      {
+        "path": "images/artists/work-kevin-moth",
+        "width": 640,
+        "height": 974,
+        "title": "Rosy Maple Moth",
+        "artistSlug": "kevin-dixon",
+        "categoryLabel": "Illustrative Color",
+        "alt": "Vibrant pink and yellow Rosy Maple Moth tattoo on forearm by Kevin Dixon"
+      },
+      {
+        "path": "images/work-dagger",
+        "width": 220,
+        "height": 197,
+        "title": "Master Sword & Heart Container",
+        "artistSlug": "kevin-dixon",
+        "categoryLabel": "Color & Gaming",
+        "alt": "Legend of Zelda Master Sword and Heart Container calf tattoo by Kevin Dixon"
+      },
+      {
+        "path": "images/work-joy",
+        "width": 220,
+        "height": 195,
+        "title": "Traditional Floral Vase (JOY)",
+        "artistSlug": "kevin-dixon",
+        "categoryLabel": "Traditional",
+        "alt": "Traditional color floral vase tattoo with banner reading JOY by Kevin Dixon"
+      },
+
+      {
+        "path": "images/artists/storm-3",
+        "width": 640,
+        "height": 645,
+        "title": "Tactical Raccoon New School",
+        "artistSlug": "baza-stormtattoos",
+        "categoryLabel": "Color & New School",
+        "alt": "Full-color tactical raccoon thigh tattoo with night-vision goggles by Storm Bazarsky"
+      },
+      {
+        "path": "images/artists/storm-4",
+        "width": 640,
+        "height": 645,
+        "title": "Cherry Blossom Shoulder Flow",
+        "artistSlug": "baza-stormtattoos",
+        "categoryLabel": "Color Floral",
+        "alt": "Pink cherry blossom branch and butterfly shoulder tattoo by Storm Bazarsky"
+      },
+      {
+        "path": "images/artists/storm-2",
+        "width": 640,
+        "height": 645,
+        "title": "Retro Sci-Fi Ray Gun",
+        "artistSlug": "baza-stormtattoos",
+        "categoryLabel": "Bold Color",
+        "alt": "Vibrant pink, orange, and green retro sci-fi ray gun tattoo by Storm Bazarsky"
+      },
+      {
+        "path": "images/artists/storm-1",
+        "width": 640,
+        "height": 705,
+        "title": "Phantom Sheet Music Filigree",
+        "artistSlug": "baza-stormtattoos",
+        "categoryLabel": "Fine Line Ornamental",
+        "alt": "Delicate fine-line musical score and ornamental shoulder tattoo by Storm Bazarsky"
+      },
+
+      {
+        "path": "images/artists/amber-2",
+        "width": 640,
+        "height": 705,
+        "title": "Traditional Rope-Framed Cowgirl",
+        "artistSlug": "c-lo-qween",
+        "categoryLabel": "American Traditional",
+        "alt": "American Traditional cowgirl holding revolver framed in rope by Amber (@c.lo.qween)"
+      },
+      {
+        "path": "images/artists/amber-1",
+        "width": 640,
+        "height": 705,
+        "title": "Twin Faces & Butterfly Wings",
+        "artistSlug": "c-lo-qween",
+        "categoryLabel": "Neo-Traditional",
+        "alt": "Color neo-traditional twin faces with butterfly wings and blossoms by Amber (@c.lo.qween)"
+      },
+      {
+        "path": "images/artists/amber-3",
+        "width": 640,
+        "height": 705,
+        "title": "Heart-Backed Traditional Scorpion",
+        "artistSlug": "c-lo-qween",
+        "categoryLabel": "American Traditional",
+        "alt": "Bold color American Traditional scorpion tattoo patterned with red and gold hearts by Amber"
+      },
+      {
+        "path": "images/artists/amber-4",
+        "width": 640,
+        "height": 825,
+        "title": "Rainbow Luna Moth & Skull Blooms",
+        "artistSlug": "c-lo-qween",
+        "categoryLabel": "Illustrative Color",
+        "alt": "Vibrant pastel and bold-line moth with skull bellflowers upper-arm tattoo by Amber"
+      },
+
+      {
+        "path": "images/artists/lee-1",
+        "width": 640,
+        "height": 943,
+        "title": "Ornamental Vase & Wildflowers",
+        "artistSlug": "inkyleetattoos",
+        "categoryLabel": "Fine Line",
+        "alt": "Fine-line antique vase overflowing with wildflowers forearm tattoo by Amory Lee"
+      },
+      {
+        "path": "images/artists/lee-2",
+        "width": 640,
+        "height": 974,
+        "title": "Éowyn & Fellbeast Frame",
+        "artistSlug": "inkyleetattoos",
+        "categoryLabel": "Illustrative Linework",
+        "alt": "Fine-line Lord of the Rings Éowyn thigh tattoo in an ornamental botanical frame by Amory Lee"
+      },
+      {
+        "path": "images/artists/lee-3",
+        "width": 640,
+        "height": 974,
+        "title": "Botanical Birth-Flower Wrap",
+        "artistSlug": "inkyleetattoos",
+        "categoryLabel": "Botanical Linework",
+        "alt": "Delicate fine-line poppy, daffodil, and lily-of-the-valley shin wrap tattoo by Amory Lee"
+      },
+      {
+        "path": "images/artists/lee-4",
+        "width": 640,
+        "height": 936,
+        "title": "Flowing Lily Hip & Side Piece",
+        "artistSlug": "inkyleetattoos",
+        "categoryLabel": "Floral Linework",
+        "alt": "Large-scale fine-line blooming lilies hip and side body wrap tattoo by Amory Lee"
+      },
+
+      {
+        "path": "images/artists/jordyn-1",
+        "width": 640,
+        "height": 971,
+        "title": "Gothic Cathedral Architecture",
+        "artistSlug": "jordyn-tatts",
+        "categoryLabel": "Black & Grey",
+        "alt": "High-contrast black and grey Gothic cathedral spires shoulder tattoo by Jordyn"
+      },
+      {
+        "path": "images/artists/jordyn-2",
+        "width": 640,
+        "height": 971,
+        "title": "Peony & Filigree Hip Piece",
+        "artistSlug": "jordyn-tatts",
+        "categoryLabel": "Black & Grey Floral",
+        "alt": "Sweeping black and grey peonies and botanical leaves hip and thigh tattoo by Jordyn"
+      },
+      {
+        "path": "images/artists/jordyn-3",
+        "width": 640,
+        "height": 860,
+        "title": "German Shepherd Portrait",
+        "artistSlug": "jordyn-tatts",
+        "categoryLabel": "Realism",
+        "alt": "Fine-detail black and grey realism German Shepherd pet portrait tattoo by Jordyn"
+      },
+      {
+        "path": "images/artists/jordyn-4",
+        "width": 640,
+        "height": 971,
+        "title": "Half-Face Labrador Portrait",
+        "artistSlug": "jordyn-tatts",
+        "categoryLabel": "Realism",
+        "alt": "Realistic black and grey Labrador dog portrait forearm tattoo by Jordyn"
+      },
+
+      {
+        "path": "images/artists/tyler-1",
+        "width": 640,
+        "height": 836,
+        "title": "Opal Helix & Serpent Conch Curation",
+        "artistSlug": "hol3-punch3r",
+        "categoryLabel": "Ear Curation",
+        "alt": "Styled ear piercing curation featuring white opal helix, gold snake inner ear piece, and pave hoop by Tyler"
+      },
+      {
+        "path": "images/artists/tyler-2",
+        "width": 640,
+        "height": 958,
+        "title": "Dual Blue-Opal Flat & Helix Stack",
+        "artistSlug": "hol3-punch3r",
+        "categoryLabel": "Body Piercing",
+        "alt": "Fresh flat ear piercings with blue opals paired with crystal helix studs and gold hoop by Tyler"
+      },
+      {
+        "path": "images/artists/tyler-3",
+        "width": 640,
+        "height": 860,
+        "title": "Fresh Eyebrow Piercing",
+        "artistSlug": "hol3-punch3r",
+        "categoryLabel": "Facial Piercing",
+        "alt": "Clean anatomical eyebrow piercing performed by Tyler (@hol3_punch3r) at Tooth & Nail"
+      },
+      {
+        "path": "images/artists/tyler-4",
+        "width": 640,
+        "height": 860,
+        "title": "Minimalist Dagger Threadless Ends",
+        "artistSlug": "hol3-punch3r",
+        "categoryLabel": "Studio Jewelry",
+        "alt": "Pair of polished surgical-grade miniature dagger piercing jewelry ends available with Tyler"
+      },
+
+      {
+        "path": "images/artists/sky-1",
+        "width": 640,
+        "height": 705,
+        "title": "Blackwork Ouroboros Serpent",
+        "artistSlug": "lilskythetatguy",
+        "categoryLabel": "Blackwork",
+        "alt": "Crisp blackwork Ouroboros snake biting its tail on shoulder by Sky (@lilskythetatguy)"
+      },
+      {
+        "path": "images/artists/sky-2",
+        "width": 640,
+        "height": 705,
+        "title": "Shaded Thorn-Vine Armband",
+        "artistSlug": "lilskythetatguy",
+        "categoryLabel": "Black & Grey",
+        "alt": "Custom shaded thorny vine wrap armband tattoo on upper arm by Sky"
+      },
+      {
+        "path": "images/artists/sky-3",
+        "width": 640,
+        "height": 899,
+        "title": "Bat-Winged Folklore Fairy",
+        "artistSlug": "lilskythetatguy",
+        "categoryLabel": "Illustrative",
+        "alt": "Spooky cottagecore bat-winged fairy black and grey tattoo by Sky (@lilskythetatguy)"
+      },
+      {
+        "path": "images/artists/sky-4",
+        "width": 640,
+        "height": 705,
+        "title": "Dotwork Peony & Leaves",
+        "artistSlug": "lilskythetatguy",
+        "categoryLabel": "Botanical",
+        "alt": "Soft dotwork shaded peony blossom upper-arm tattoo by Sky at Tooth & Nail Macon"
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "category": "Booking & Walk-Ins",
+      "question": "Do you take walk-in tattoos in downtown Macon?",
+      "answer": "Yes. Walk-ins are welcome Tuesday through Saturday whenever an artist chair is open. Smaller flash pieces, script, and straightforward designs are often taken the same day. For larger custom work, sleeves, or cover-ups that require custom drawing time, book a consultation or call (478) 259-1829 before heading down to 484 Cherry St.",
+      "openByDefault": true
+    },
+    {
+      "category": "Booking & Walk-Ins",
+      "question": "What are Tooth & Nail Tattoo Parlour's hours?",
+      "answer": "Tooth & Nail is open five days a week at 484 Cherry St in downtown Macon, GA: Tuesday, Wednesday, and Thursday from 1:00 PM to 8:00 PM, and Friday and Saturday from 1:00 PM to 10:00 PM. The parlour is closed on Sunday and Monday.",
+      "openByDefault": true
+    },
+    {
+      "category": "Booking & Walk-Ins",
+      "question": "Where are you located and where do I park on Cherry Street?",
+      "answer": "We are located at 484 Cherry St, Macon, GA 31201, right in the heart of downtown Macon near the Cherry Street dining and retail corridor and a short drive from Mercer University. Street parking is available along Cherry Street and adjacent downtown blocks.",
+      "openByDefault": false
+    },
+    {
+      "category": "Pricing & Policies",
+      "question": "How much does a tattoo cost?",
+      "answer": "Pricing depends on final size, placement on the body, level of detail, color saturation, and artist time—so we do not quote flat prices blindly over social media or phone without reviewing your idea. Call (478) 259-1829, submit a consultation request online, or stop by the shop for an accurate estimate.",
+      "openByDefault": true
+    },
+    {
+      "category": "Pricing & Policies",
+      "question": "Do I need to put down a deposit to book a custom appointment?",
+      "answer": "Custom appointments and multi-hour sessions require a deposit confirmed directly with your chosen artist or the shop desk (for example, several resident artists take a $50 booking deposit applied toward the tattoo). Always confirm your artist's exact deposit policy and accepted payment method directly—never send money to unverified accounts.",
+      "openByDefault": false
+    },
+    {
+      "category": "Pricing & Policies",
+      "question": "What is the minimum age and ID requirement?",
+      "answer": "Plan on being 18 years of age or older with a valid, unexpired government-issued photo ID (such as a driver's license, state ID, or passport) for any tattoo or piercing service. If you have questions regarding identification or age rules, call (478) 259-1829 before arriving.",
+      "openByDefault": false
+    },
+    {
+      "category": "Piercing & Safety",
+      "question": "Do you offer body piercings?",
+      "answer": "Yes—resident professional body piercer Tyler (@hol3_punch3r) performs sterile body piercings, facial piercings, and curated ear styling at Tooth & Nail Wednesday through Saturday (walk-ins and appointments). Call (478) 259-1829 or message @hol3_punch3r to check same-day availability and jewelry options.",
+      "openByDefault": false
+    },
+    {
+      "category": "Piercing & Safety",
+      "question": "Is Tooth & Nail licensed and inspected by the health department?",
+      "answer": "Yes. Tooth & Nail Tattoo Parlour operates under licensing from the Macon-Bibb County Board of Health (171 Emory Highway, Macon, GA; phone (478) 745-0411) and has served Cherry Street and Middle Georgia for more than a decade with strict single-use needle and sterilization protocols.",
+      "openByDefault": false
+    },
+    {
+      "category": "Healing & Aftercare",
+      "question": "Does getting a tattoo or piercing hurt?",
+      "answer": "Yes—both tattooing and piercing involve discomfort, though tolerance varies widely by person and placement. Spots over bone or thin skin (ribs, feet, hands, sternum) feel sharper than fleshier areas like the outer arm or calf. Eat a solid meal beforehand, hydrate well, and ask your artist what to expect for your chosen placement.",
+      "openByDefault": false
+    },
+    {
+      "category": "Healing & Aftercare",
+      "question": "Can I go swimming or take a bath with a new tattoo?",
+      "answer": "No. Do not submerge a fresh tattoo in pools, lakes, rivers, oceans, hot tubs, or bathtubs for at least 3 weeks while the skin seals and heals. Soaking softens healing skin and sharply raises infection risk. Brief, clean showers are fine—if you have a beach trip coming up, schedule your tattoo for after you get home.",
+      "openByDefault": false
+    },
+    {
+      "category": "Healing & Aftercare",
+      "question": "Why does my new tattoo look like ink is leaking out under the wrap?",
+      "answer": "Your tattoo is not fading or rejecting ink. During the first few days, your body produces plasma and lymph fluid to heal the skin, which naturally mixes with excess surface pigment to form a dark, cloudy liquid under Soku or second-skin wraps. Follow the wash and moisturizing steps on our Aftercare page and check with your artist if anything looks unusual.",
+      "openByDefault": false
+    }
+  ],
+  "aftercare": {
+    "soku": {
+      "title": "Routine 01: Soku Second-Skin Wrap",
+      "summary": "Follow these six steps if your artist sealed your fresh tattoo with Soku Tattoo Aftercare film.",
+      "steps": [
+        {
+          "name": "Keep the wrap on for 3 to 7 days",
+          "text": "Leave Soku Tattoo Aftercare on the tattoo for at least 3 days. You may leave the protective film on up to a full week as long as the seal remains intact and the skin is not irritated."
+        },
+        {
+          "name": "Expect dark fluid underneath",
+          "text": "During the first few days, plasma, blood, and excess surface ink will pool as a dark, cloudy liquid inside the pocket. This is completely normal and protects the healing tattoo."
+        },
+        {
+          "name": "Remove gently in a warm shower",
+          "text": "After at least 3 days, peel the wrap off slowly in the shower using warm water and Dial Gold antibacterial soap. Lift a corner carefully until soap and water break the adhesive seal without pulling on the skin."
+        },
+        {
+          "name": "Wash morning and night for 2 days",
+          "text": "For the next two days after removing the film, gently wash the tattoo with Dial Gold morning and night. Pat completely dry with a clean disposable paper towel—never rub with a cloth bath towel."
+        },
+        {
+          "name": "Moisturize lightly starting day 3",
+          "text": "On the third day after film removal, apply a thin layer of unscented, dye-free lotion if the skin feels dry or tight. Shop-recommended options include Lubriderm, Jergens, Cornhuskers, Curel, or Eucerin."
+        },
+        {
+          "name": "Remove early if the seal leaks",
+          "text": "If fluid leaks out from an edge before day 3, bacteria can get in. Remove the wrap immediately in the shower and transition straight to the traditional wash-and-lotion routine below."
+        }
+      ]
+    },
+    "traditional": {
+      "title": "Routine 02: Standard Bandage & Ointment",
+      "summary": "Follow these eight steps if your artist sent you home with a traditional wrap or absorbent pad.",
+      "steps": [
+        {
+          "name": "First wash when you get home",
+          "text": "Leave the shop bandage on until you arrive home. Remove it cleanly, wash gently with Dial Gold antibacterial soap, and pat dry with a clean paper towel. Wash once more at bedtime; if you have pets, you may cover it loosely with clean cling wrap on the first night only once completely dry."
+        },
+        {
+          "name": "Wash twice daily for days 1 to 4",
+          "text": "For the first 3 to 4 days, wash your tattoo with Dial Gold morning and night—and any time you sweat heavily or get dirty—then pat dry with a fresh paper towel."
+        },
+        {
+          "name": "Apply a whisper-thin layer of Aquaphor",
+          "text": "During days 1 to 4, rub in a very thin sheen of Aquaphor or an artist-approved ointment. Applying too much ointment traps moisture, suffocates pores, and causes heavy scabbing or weeping."
+        },
+        {
+          "name": "Switch to unscented lotion around day 5",
+          "text": "Around day 5, swap ointment for a small amount of fragrance-free, dye-free lotion (Lubriderm, Jergens, Cornhuskers, Curel, or Eucerin) as needed for about two weeks until peeling settles."
+        },
+        {
+          "name": "Know what normal healing feels like",
+          "text": "Mild redness, warmth, itching, light flaking, and slight swelling are normal parts of the healing cycle. Never scratch or pick peeling flakes—pat gently or apply a light dot of lotion."
+        },
+        {
+          "name": "Keep scented soaps off in the shower",
+          "text": "Quick showers are fine, but keep harsh body washes, scrubs, and shampoo away from the fresh tattoo. If soap runs over it, rinse and wash gently with Dial Gold at the end of your shower."
+        },
+        {
+          "name": "No soaking or swimming for 2 to 3 weeks",
+          "text": "Avoid pools, lakes, oceans, hot tubs, and soaking in bathtubs for at least 2 to 3 weeks until the surface skin is fully healed."
+        },
+        {
+          "name": "Protect fresh ink from direct sun",
+          "text": "Keep a healing tattoo covered from direct sunlight and tanning beds. Once fully healed, daily broad-spectrum sunscreen keeps lines sharp and colors bright for years."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+# Tooth & Nail Tattoo Parlour
+
+> Custom tattoo and body piercing parlour at 484 Cherry St in downtown Macon, Georgia. Operating for over a decade with eight resident artists, walk-in availability Tuesday–Saturday, and Macon-Bibb County Board of Health licensing.
+
+## Studio Details
+- **Address**: 484 Cherry St, Macon, GA 31201 (Downtown Macon)
+- **Phone**: (478) 259-1829
+- **Co-Owners**: Kevin Dixon (@kevin_dtattoos) & Ricky Lester (@greasy.dreams)
+- **Hours**: Tue–Thu 1:00 PM – 8:00 PM; Fri–Sat 1:00 PM – 10:00 PM; Closed Sun–Mon
+- **Walk-Ins**: Welcome Tuesday through Saturday while chairs are open
+- **Services**: Custom tattoos, walk-in flash tattoos, cover-ups & reworks, body piercing
+- **Health Licensing**: Macon-Bibb County Board of Health, 171 Emory Highway, Macon, GA, (478) 745-0411
+- **Social**: [Instagram](https://instagram.com/tntparlour) · [Facebook](https://facebook.com/105780602271555)
+
+## Key Pages
+- [Home & Studio Overview](https://thegenuinegeek.github.io/tntparlour/)
+- [Resident Artists Directory](https://thegenuinegeek.github.io/tntparlour/artists/)
+- [Book a Consultation](https://thegenuinegeek.github.io/tntparlour/book.html)
+- [Tattoo Aftercare Guide](https://thegenuinegeek.github.io/tntparlour/aftercare.html)
+- [Frequently Asked Questions](https://thegenuinegeek.github.io/tntparlour/faq.html)
+- [Full Knowledge Base (llms-full.txt)](https://thegenuinegeek.github.io/tntparlour/llms-full.txt)
+
+## Resident Artists
+- [Kevin Dixon](https://thegenuinegeek.github.io/tntparlour/artists/kevin-dixon.html): Co-Owner & Tattoo Artist (Full-Color Anime & Gaming, Pop Culture, Neo-Traditional, Custom Sleeves) — Instagram: https://instagram.com/kevin_dtattoos
+- [Ricky Lester](https://thegenuinegeek.github.io/tntparlour/artists/greasy-dreams.html): Co-Owner & Tattoo Artist (Custom Tattoos, Walk-Ins, Cherry Street Co-Owner) — Instagram: https://instagram.com/greasy.dreams
+- [Storm Bazarsky](https://thegenuinegeek.github.io/tntparlour/artists/baza-stormtattoos.html): Resident Tattoo Artist (Neo-Traditional, Color & New School, Black & Grey, Ornamental) — Instagram: https://instagram.com/baza_stormtattoos
+- [Amber](https://thegenuinegeek.github.io/tntparlour/artists/c-lo-qween.html): Resident Tattoo Artist (American Traditional, Neo-Traditional, Illustrative Color) — Instagram: https://instagram.com/c.lo.qween
+- [Amory "Lee"](https://thegenuinegeek.github.io/tntparlour/artists/inkyleetattoos.html): Resident Tattoo Artist (Fine Line, Ornamental Linework, Botanical & Illustrative) — Instagram: https://instagram.com/inkyleetattoos
+- [Jordyn](https://thegenuinegeek.github.io/tntparlour/artists/jordyn-tatts.html): Resident Tattoo Artist (Black & Grey Realism, Pet Portraits, Surrealism, Fine Line) — Instagram: https://instagram.com/jordyn_tatts
+- [Tyler](https://thegenuinegeek.github.io/tntparlour/artists/hol3-punch3r.html): Professional Body Piercer (Body Piercing, Curated Ear Styling, Facial Piercings, Sterile Jewelry) — Instagram: https://instagram.com/hol3_punch3r
+- [Sky](https://thegenuinegeek.github.io/tntparlour/artists/lilskythetatguy.html): Resident Tattoo Artist (Black & Grey, Illustrative & Folklore, Botanical Shading, Walk-In Flash) — Instagram: https://instagram.com/lilskythetatguy
